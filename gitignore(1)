@@ -1,6 +1,0 @@
-.venv/
-__pycache__/
-data/
-model.pt
-model_fp32.onnx
-*Zone.Identifier
