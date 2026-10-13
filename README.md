@@ -120,4 +120,4 @@ uv run --no-project --with opencv-python --with requests webcam.py
 
 ## Authors
 
-Group 5, CPE179P_E01: John Simon Guarin Dominguez, Mark Owen T. Loro, and [Member 3 name].
+Group 5, CPE179P_E01: John Simon Guarin Dominguez, Mark Owen T. Loro, and Joseph Brian B. Pablo.
