@@ -56,7 +56,7 @@ Not in the repo: `data/` (the photos), `model.pt`, `model_fp32.onnx`, `.venv/`.
 Requires [uv](https://docs.astral.sh/uv/). The server was developed on Ubuntu under WSL2.
 
 ```bash
-git clone https://github.com/<your-username>/pesosight.git
+git clone https://github.com/MarkTofu/pesosight.git
 cd pesosight
 uv sync
 ```
